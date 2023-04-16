@@ -1,0 +1,20 @@
+P:\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\Game(C_SHARP).exe.config
+P:\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\Game(C_SHARP).exe
+P:\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\Game(C_SHARP).pdb
+P:\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).csproj.AssemblyReference.cache
+P:\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).csproj.CoreCompileInputs.cache
+P:\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).exe
+P:\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).pdb
+P:\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\EZInput.dll
+P:\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\EZInput.xml
+P:\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).csproj.CopyComplete
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\Game(C_SHARP).exe.config
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\Game(C_SHARP).exe
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\Game(C_SHARP).pdb
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\EZInput.dll
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\bin\Debug\EZInput.xml
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).csproj.AssemblyReference.cache
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).csproj.CoreCompileInputs.cache
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).csproj.CopyComplete
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).exe
+P:\OPP Week 1\Game(C_SHARP)\Game(C_SHARP)\obj\Debug\Game(C_SHARP).pdb

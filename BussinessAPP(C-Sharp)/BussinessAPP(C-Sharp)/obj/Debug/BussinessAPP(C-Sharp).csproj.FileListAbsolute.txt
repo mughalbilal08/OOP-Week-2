@@ -1,0 +1,14 @@
+P:\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\bin\Debug\BussinessAPP(C-Sharp).exe.config
+P:\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\bin\Debug\BussinessAPP(C-Sharp).exe
+P:\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\bin\Debug\BussinessAPP(C-Sharp).pdb
+P:\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).csproj.AssemblyReference.cache
+P:\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).csproj.CoreCompileInputs.cache
+P:\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).exe
+P:\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).pdb
+P:\OPP Week 1\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\bin\Debug\BussinessAPP(C-Sharp).exe.config
+P:\OPP Week 1\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\bin\Debug\BussinessAPP(C-Sharp).exe
+P:\OPP Week 1\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\bin\Debug\BussinessAPP(C-Sharp).pdb
+P:\OPP Week 1\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).csproj.AssemblyReference.cache
+P:\OPP Week 1\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).csproj.CoreCompileInputs.cache
+P:\OPP Week 1\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).exe
+P:\OPP Week 1\BussinessAPP(C-Sharp)\BussinessAPP(C-Sharp)\obj\Debug\BussinessAPP(C-Sharp).pdb
